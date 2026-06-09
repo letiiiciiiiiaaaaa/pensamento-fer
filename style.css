@@ -1,5 +1,5 @@
 header {
-    background-color: #ff005d;
+    background-color: #630f0f;
     color: #ffffff;
     text-align: center;
     max-width: 800px;
@@ -9,8 +9,13 @@ header {
 
 main {
     background-color: #FFFFFF;
-    color: #ff6200;
+    color: #533535;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
+    display: flex;
+}
+
+.artigo-autor {
+    font-weight: bold;
 }
